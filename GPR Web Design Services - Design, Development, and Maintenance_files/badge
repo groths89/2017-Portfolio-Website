@@ -1,0 +1,4 @@
+GoDaddyPro.Badge._jsonpCallback({
+  html: '<a href="https://godaddy.pro/u/8a8545dc-75ba-40e4-abb2-f96837721184"  target="_blank"><img src="https://godaddy.pro/pro/api/v1/MemberBadge_dark.123027f7fad9d81c84b4329a88829051.svg" title="GoDaddy Pro"/></a>',
+  shopper_uuid: "8a8545dc-75ba-40e4-abb2-f96837721184"
+});
